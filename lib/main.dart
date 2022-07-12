@@ -34,6 +34,8 @@ class HomePage extends StatelessWidget {
         // ],
         
       ),
+
+      //Comments
       body: Container(
         padding: EdgeInsets.symmetric(horizontal: 32),
         color: Color.fromRGBO(19, 19, 19, 1.0),
